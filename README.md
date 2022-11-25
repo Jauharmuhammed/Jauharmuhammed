@@ -2,7 +2,7 @@
 
 <picture> <img align="right" src="https://github.com/Jauharmuhammed/Jauharmuhammed/blob/main/assets/Right_Side.gif" width = 250px></picture>
 
-<h1><b >Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, &nbsp; I'm Jauhar Muhammed </b></h1>
+<h1><b >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> &nbsp; I'm Jauhar Muhammed </b></h1>
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=false&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer,;Python+Django+|+React+Js,;Love+to+learn+new+things..<3"></a> -->
 
 <br>
