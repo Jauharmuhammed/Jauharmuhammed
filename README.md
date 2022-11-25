@@ -1,3 +1,5 @@
+<!--   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
+
 <picture> <img align="right" src="https://github.com/Jauharmuhammed/Jauharmuhammed/blob/main/assets/Right_Side.gif" width = 250px></picture>
 
 <h1><b >Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, &nbsp; I'm Jauhar Muhammed </b></h1>
@@ -99,4 +101,7 @@
 </div>
 
 
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jauharmuhammed&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
