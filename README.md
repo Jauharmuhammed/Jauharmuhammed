@@ -1,4 +1,4 @@
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Jauharmuhammed/Jauharmuhammed/blob/main/assets/Right_Side.gif" width = 250px></picture>
 
 <h1><b >Hi, I'm Jauhar Muhammed </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=false&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer,;Python+Django+|+React+Js,;Love+to+learn+new+things..<3"></a> -->
@@ -75,7 +75,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Jauharmuhammed/Jauharmuhammed/blob/main/assets/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
