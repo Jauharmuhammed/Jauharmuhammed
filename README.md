@@ -27,7 +27,7 @@
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
     
-- **Frameworks**:
+- **Frameworks and Libraries**:
 
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
    ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -95,7 +95,7 @@
 	
 		
 <a href="https://codepen.io/jauharmuhammed" target="_blank">
-<img src="https://img.shields.io/badge/codepen-%2300C4CC.svg?style=for-the-badge&logo=codepen&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
 </div>
