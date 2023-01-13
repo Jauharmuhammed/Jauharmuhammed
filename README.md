@@ -72,8 +72,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jauharmuhammed&theme=dark" alt="jauharmuhammed" />
 
 [![Jauhar Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jauharmuhammed&theme=dark)](https://github.com/jauharmuhammed/github-readme-stats)
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauharmuhammed&layout=compact&theme=dark)](https://github.com/jauharmuhammed/github-readme-stats)
 
-</a>
 	
 </div>
 
