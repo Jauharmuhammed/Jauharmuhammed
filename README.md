@@ -8,9 +8,8 @@
 <br>
 
 - A passionate Self-taught Full-stack developer (Django + React)
-- Currently learning Web Development and Design by myself
+- Currently working as Application Developer at Farms.io
 - Always Love to learn new things...<3
-- I’m currently open for a new job opportunity, this is [my resume]( https://github.com/Jauharmuhammed/Jauharmuhammed/blob/main/assets/Muhammed%20Jauhar%20Resume.pdf)
 
 <!-- - <a href='https://github.com/Jauharmuhammed/Jauharmuhammed/blob/main/assets/Muhammed%20Jauhar%20Resume.pdf' download>My Resume</a> -->
 <br>
