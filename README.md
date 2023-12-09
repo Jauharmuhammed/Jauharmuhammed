@@ -7,9 +7,9 @@
 
 <br>
 
-- A passionate Self-taught Full-stack developer (Django + React)
-- Currently working as Application Developer at Farms.io
+- Self-taught Full-stack developer
 - Always Love to learn new things...<3
+- Currently working as Software Engineer @[Fibr.ai](https://fibr.ai)
 
 <!-- - <a href='https://github.com/Jauharmuhammed/Jauharmuhammed/blob/main/assets/Muhammed%20Jauhar%20Resume.pdf' download>My Resume</a> -->
 <br>
